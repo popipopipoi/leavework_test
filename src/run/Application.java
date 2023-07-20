@@ -141,10 +141,11 @@ public class Application {
 
         } else if (anwser4 == 3) {
             hahahahahahoho.condition4();
-            player.heal(30);
+
 
         } else if (anwser4 == 4){
             serious.condition1();
+            player.heal(30);
 
         } else if (anwser4 == 5) {
             ending.badEnding2();
